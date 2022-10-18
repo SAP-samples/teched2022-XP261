@@ -1,12 +1,14 @@
-# XP261 - Session Title
+# XP261 - Operating Your SAP BTP Platform Environment with SAP Cloud ALM
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2022 session called XP261 - Operating Your SAP BTP Platform Environment with SAP Cloud ALM.
+
+Reliability plays a central role, especially in hybrid landscapes that contain software-as-a-service (SaaS) cloud services, managed cloud components, and on-premise components. The different components involved must be monitored to maintain reliable operations at the application level. In case of an alert, a swift and ideally automatic reaction is required. SAP Cloud ALM provides monitoring applications for various components running in the cloud as well as on-premise. 
 
 ## Overview
 
-This session introduces attendees to...
+In this session, you will get a detailed overview of the capabilities of Health Monitoring in SAP Cloud ALM. You will learn to connect a managed component to SAP Cloud ALM, how to navigate Health Monitoring and how to set up alerts and notifications. To react to alerts, you will learn how to register automations and trigger them from Health Monitoring. 
 
 ## Requirements
 
