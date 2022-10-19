@@ -48,7 +48,9 @@ The new email address is created as “Pending”. An email is sent to this addr
 Check your email inbox and verify your email address.
 
 6.	Click here.
-<br>![](/exercises/ex2/images/3-6.png)
+<br>![](/exercises/ex2/images/3-6-1.png)
+
+<br>![](/exercises/ex2/images/3-6-2.png)
 
 ## Exercise 3.7 Check verification in Notification Management
 
