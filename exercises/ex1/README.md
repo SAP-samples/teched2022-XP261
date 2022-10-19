@@ -41,6 +41,10 @@ Make sure the replace XXX with your group number!
 
 ## Exercise 1.6 Sub Exercise 4 Description
 
+After creating the Service Key, click on the three dots at the end of the row and select “Download”. 
+
+## Exercise 1.7 Sub Exercise 4 Description
+
 Make sure that the service key file is available in your laptop’s “Download” folder. 
 
 
