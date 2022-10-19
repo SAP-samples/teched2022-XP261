@@ -37,7 +37,7 @@ Select the HANA for your group number and press the “Apply” button
 Now you will see only your HANA Cloud.
 
 5.	Click here.
-<br>![](/exercises/ex4/images/5-5.png)
+<br>![](/exercises/ex5/images/5-5.png)
 
 ## Exercise 5.6 Navigate to details
 
@@ -93,117 +93,117 @@ You can use the controls in the upper left area to adjust the metric history’s
 
 Close the window by clicking on the “Close” button.
 
-14.	Click here.
-<br>![](/exercises/ex5/images/5-14.png)
+13.	Click here.
+<br>![](/exercises/ex5/images/5-13.png)
 
-## Exercise 5.15 Return to Health Monitoring
+## Exercise 5.14 Return to Health Monitoring
 
 Click the “Home” icon to return to the Health Monitoring start screen. 
 
 15.	Click here.
-<br>![](/exercises/ex5/images/5-15.png)
+<br>![](/exercises/ex5/images/5-14.png)
 
-## Exercise 5.16 See service in favorites
+## Exercise 5.15 See service in favorites
 
 You will now see your SAP HANA Cloud service in the “Favorites” area
 
 16.	Click here.
-<br>![](/exercises/ex5/images/5-16.png)
+<br>![](/exercises/ex5/images/5-15.png)
 
-## Exercise 5.17 Set up alert
+## Exercise 5.16 Set up alert
 
 Click on the “Configuration” button to open the Configuration tray to set up an alert.
 
 17.	Click here.
-<br>![](/exercises/ex5/images/5-17.png)
+<br>![](/exercises/ex5/images/5-16.png)
 
-## Exercise 5.18 Select service
+## Exercise 5.17 Select service
 
 Open the “Services” tray
 
 18.	Click here.
-<br>![](/exercises/ex5/images/5-18.png)
+<br>![](/exercises/ex5/images/5-17.png)
 
-## Exercise 5.19 Select your assigned service
+## Exercise 5.18 Select your assigned service
 
 Click on the name of your SAP HANA Cloud
 
 19.	Click here.
-<br>![](/exercises/ex5/images/5-19.png)
+<br>![](/exercises/ex5/images/5-18.png)
 
-## Exercise 5.20 Select metric Database Availability Check
+## Exercise 5.19 Select metric Database Availability Check
 
 Here you see all metrics that are collected for this SAP HANA Cloud. 
 Click on the metric “Database Availability Check”
 
-20.	Click here.
-<br>![](/exercises/ex5/images/5-20.png)
+10.	Click here.
+<br>![](/exercises/ex5/images/5-19.png)
 
-## Exercise 5.21 Save activity
+## Exercise 5.20 Save activity
 
 Leave the status mapping as suggested and click the “Save” button to activate the threshold.
 
-21.	Click here.
-<br>![](/exercises/ex5/images/5-21.png)
+20.	Click here.
+<br>![](/exercises/ex5/images/5-20.png)
 
-## Exercise 5.22 Go to Events
+## Exercise 5.21 Go to Events
 
 The threshold is now activated.
 Click on the tab “Events” to create an alert.
 
-22.	Click here.
-<br>![](/exercises/ex5/images/5-22.png)
+21.	Click here.
+<br>![](/exercises/ex5/images/5-21.png)
 
-## Exercise 5.23 Set up availability alert
+## Exercise 5.22 Set up availability alert
 
 In this screen you see all events that are available for the SAP HANA Cloud service.
 Click on “Database Accessibility” to set up an availability alert.
 
+22.	Click here.
+<br>![](/exercises/ex5/images/5-22.png)
+
+## Exercise 5.23 Turn on alert and notification
+
+Switch the slider button for “Create Alert” and “Send Email” to ON
+
 23.	Click here.
 <br>![](/exercises/ex5/images/5-23.png)
 
-## Exercise 5.24 Turn on alert and notification
+## Exercise 5.24 Add recipient
 
-Switch the slider button for “Create Alert” and “Send Email” to ON
+Click the “+” button to add your email recipient.
 
 24.	Click here.
 <br>![](/exercises/ex5/images/5-24.png)
 
-## Exercise 5.25 Add recipient
+## Exercise 5.25 Add email address
 
-Click the “+” button to add your email recipient.
+Select YOUR email address from the list and click the “OK” button.
 
 25.	Click here.
 <br>![](/exercises/ex5/images/5-25.png)
 
-## Exercise 5.26 Add email address
+## Exercise 5.26  Save acitivties
 
-Select YOUR email address from the list and click the “OK” button.
+Click the “Save” button to save your setup.
 
 26.	Click here.
 <br>![](/exercises/ex5/images/5-26.png)
 
-## Exercise 5.27  Save acitivties
-
-Click the “Save” button to save your setup.
-
-27.	Click here.
-<br>![](/exercises/ex5/images/5-27.png)
-
-## Exercise 5.28 Close configuration
+## Exercise 5.27 Close configuration
 
 You have now set up an alert with an email recipient. 
 Click the “Close” button to close the configuration.
 
-28.	Click here.
-<br>![](/exercises/ex5/images/5-28.png)
+27.	Click here.
+<br>![](/exercises/ex5/images/5-27.png)
 
-## Exercise 5.29 Close panel
+## Exercise 5.28 Close panel
 
 Click the configuration icon again to close the configuration panel.
 
-29.	Click here.
-<br>![](/exercises/ex5/images/5-29.png)
+28.	Click here.
+<br>![](/exercises/ex5/images/5-28.png)
 
 ## Summary
 
