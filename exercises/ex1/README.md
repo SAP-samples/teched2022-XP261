@@ -65,7 +65,7 @@ Make sure that the service key file is available in your laptop’s “Download�
 
 ## Summary
 
-You've now ...
+You've now successfully downloaded the service key.
 
 Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
 
