@@ -1,39 +1,47 @@
-# Exercise 1 - Exercise 1 Description
+# Exercise 1 - Preparations in SAP HANA Cloud
 
-In this exercise, we will create...
+To successfully connect SAP HANA Cloud to SAP Cloud ALM, you need a service key in the SAP HANA Cloud instance so that SAP Cloud ALM can authenticate against the SAP HANA Cloud database. 
 
 ## Exercise 1.1 Sub Exercise 1 Description
 
-After completing these steps you will have created...
+Your trainer will provide:
+•	BTP Cockpit URL
+•	User
+•	Password
+Please connect via browser to the provided URL and use your credentials to log in.  
 
 1. Click here.
 <br>![](/exercises/ex1/images/01_01_0010.png)
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
-
-
 
 ## Exercise 1.2 Sub Exercise 2 Description
 
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-
-```
+After login, you see the SAP BTP Cockpit subaccount overview.
+Please navigate to Services → Instances and Subscriptions.
 
 2.	Click here.
 <br>![](/exercises/ex1/images/01_02_0010.png)
+
+
+## Exercise 1.3 Sub Exercise 3 Description
+
+Find the instance xp261-XXX-hana. 
+Select the line in the “Instances” table. Make sure not to click on the links, as this will navigate elsewhere.
+Make sure the replace XXX with your group number!
+
+## Exercise 1.4 Sub Exercise 4 Description
+
+Navigate to “Service Keys” and click the “Create” button.
+
+## Exercise 1.5 Sub Exercise 4 Description
+
+Enter “xp261_XXX_key” as Service Key Name and click the “Create” button.
+The creation will take a few minutes.
+Make sure the replace XXX with your group number!
+
+## Exercise 1.6 Sub Exercise 4 Description
+
+Make sure that the service key file is available in your laptop’s “Download” folder. 
 
 
 ## Summary
