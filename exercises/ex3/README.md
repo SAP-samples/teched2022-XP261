@@ -1,65 +1,54 @@
-# Exercise 2 - Connect SAP HANA Cloud to SAP Cloud ALM
+# Exercise 3 - Setup Notification Management
 
-To monitor SAP HANA Cloud, the HANA Cloud instance needs to be connected to SAP Cloud ALM using an endpoint. Over this endpoint, the data collection of the monitoring data in SAP HANA Cloud is triggered, and the data is collected.
+To receive emails from SAP Cloud ALM in case of an alert, you first must register your user in Notification Management and confirm that you want to receive emails. Usually, you will receive an email when your user is added to SAP Cloud ALM, and you can verify your email address in this invitation email.
+In this section, you will learn how to add an email for a user manually or add a distribution list email as a notification recipient in SAP Cloud ALM. 
 
-Endpoints are created in the Landscape Management application.
+Please note: Entering your email address is not mandatory to finish the exercise, but you will not receive an email alert notification from SAP Cloud ALM. We will remove all email recipients from Notification Management after this session.
 
-## Exercise 2.1 Log in
+## Exercise 3.1 Go back to Launchpad
 
-Your trainer will provide:
+Navigate back to the SAP Cloud ALM Launchpad
 
-•	SAP Cloud ALM URL
-
-•	User email
-
-•	Password
-
-Please connect via browser to the provided URL. Select the httpstdcteched1.accounts.ondemand.co Identity Provider.
-Use your credentials to log in. 
-
-1. Click here.
-<br>![](/exercises/ex2/images/2-1-1.png)
-
-<br>![](/exercises/ex2/images/2-1-2.png)
+1.	Click here.
+<br>![](/exercises/ex2/images/3-1.png)
 
 
-## Exercise 2.2 SAP Cloud ALM Starting Page
+## Exercise 3.2 Open Notification Management
 
-You can close the information banner, if there is one.
+Open the application “SAP Cloud ALM for Operations” → “Notification Management”
 
 2.	Click here.
-<br>![](/exercises/ex2/images/2-2.png)
+<br>![](/exercises/ex2/images/3-2.png)
 
-## Exercise 2.3 Open Landscape Management
+## Exercise 3.3 Add new recipient
 
-You will now see the SAP Cloud ALM Launchpad. 
-Click on “Administration” → “Landscape Management”
+In the “Notification Management” start screen, click the “+” button to add a new recipient.
 
 3.	Click here.
-<br>![](/exercises/ex2/images/2-3.png)
+<br>![](/exercises/ex2/images/3-3.png)
 
-## Exercise 2.4 Select your group number
+## Exercise 3.4 Add email address
 
-The Landscape Management will open in a new tab. 
-Select the entry XP261-XXX-HANA for your group number.
-Make sure the replace XXX with your group number!
+Enter your email address and click the “Save” button*
+
+Please note: Your email address will be visible to the other attendees of this session
 
 4.	Click here.
-<br>![](/exercises/ex2/images/2-4.png)
+<br>![](/exercises/ex2/images/3-4.png)
 
-## Exercise 2.5 Add Enpoint
+## Exercise 3.5 Receive verification link
 
-Under the section “Endpoints” click the “Add” button.
+The new email address is created as “Pending”. An email is sent to this address with a verification link.
 
 5.	Click here.
-<br>![](/exercises/ex2/images/2-5.png)
+<br>![](/exercises/ex2/images/3-5.png)
 
-## Exercise 2.6 Select "Health Monitoring"
+## Exercise 3.6 Verify email address"
 
-Open the drop-down box  “Use Case”and select “Health Monitoring”
+Check your email inbox and verify your email address.
 
 6.	Click here.
-<br>![](/exercises/ex2/images/2-6.png)
+<br>![](/exercises/ex2/images/3-6.png)
 
 ## Exercise 2.7 Change Root URL
 
