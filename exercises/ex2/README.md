@@ -4,7 +4,7 @@ To monitor SAP HANA Cloud, the HANA Cloud instance needs to be connected to SAP 
 
 Endpoints are created in the Landscape Management application.
 
-## Exercise 2.1 Sub Exercise 1 Description
+## Exercise 2.1 Log in
 
 Your trainer will provide:
 •	SAP Cloud ALM URL
@@ -17,14 +17,14 @@ Use your credentials to log in.
 <br>![](/exercises/ex2/images/02_01_0010.png)
 
 
-## Exercise 2.2 Sub Exercise 2 Description
+## Exercise 2.2 SAP Cloud ALM Starting Page
 
 You can close the information banner, if there is one.
 
 2.	Click here.
 <br>![](/exercises/ex2/images/02_02_0010.png)
 
-## Exercise 2.3 Sub Exercise 2 Description
+## Exercise 2.3 Open Landscape Management
 
 You will now see the SAP Cloud ALM Launchpad. 
 Click on “Administration” → “Landscape Management”
@@ -32,7 +32,7 @@ Click on “Administration” → “Landscape Management”
 3.	Click here.
 <br>![](/exercises/ex2/images/02_02_0010.png)
 
-## Exercise 2.4 Sub Exercise 2 Description
+## Exercise 2.4 Select your group number
 
 The Landscape Management will open in a new tab. 
 Select the entry XP261-XXX-HANA for your group number.
@@ -41,21 +41,21 @@ Make sure the replace XXX with your group number!
 4.	Click here.
 <br>![](/exercises/ex2/images/02_02_0010.png)
 
-## Exercise 2.5 Sub Exercise 2 Description
+## Exercise 2.5 Add Enpoint
 
 Under the section “Endpoints” click the “Add” button.
 
 5.	Click here.
 <br>![](/exercises/ex2/images/02_02_0010.png)
 
-## Exercise 2.6 Sub Exercise 2 Description
+## Exercise 2.6 Select "Health Monitoring"
 
 Open the drop-down box  “Use Case”and select “Health Monitoring”
 
 6.	Click here.
 <br>![](/exercises/ex2/images/02_02_0010.png)
 
-## Exercise 2.7 Sub Exercise 2 Description
+## Exercise 2.7 Change Root URL
 
 Replace the value in the field “Root URL” with: 
 https://api.gateway.orchestration.hana.prod-us20.hanacloud.ondemand.com 
@@ -63,14 +63,14 @@ https://api.gateway.orchestration.hana.prod-us20.hanacloud.ondemand.com
 7.	Click here.
 <br>![](/exercises/ex2/images/02_02_0010.png)
 
-## Exercise 2.8 Sub Exercise 2 Description
+## Exercise 2.8 Copy Service Key
 
 Open the Service Key you downloaded earlier and copy the entire key into the clipboard (Ctrl+A followed by Ctrl+C)
 
 8.	Click here.
 <br>![](/exercises/ex2/images/02_02_0010.png)
 
-## Exercise 2.9 Sub Exercise 2 Description
+## Exercise 2.9 Past Service Key
 
 Back in the endpoint creation screen, click the “Paste Service Key” button.
 Allow the text to be copied.
@@ -78,7 +78,7 @@ Allow the text to be copied.
 9.	Click here.
 <br>![](/exercises/ex2/images/02_02_0010.png)
 
-## Exercise 2.10 Sub Exercise 2 Description
+## Exercise 2.10 Check Connection
 
 Click the button “Check Connection”.
 You should receive a “Success” message.
@@ -86,7 +86,7 @@ You should receive a “Success” message.
 10.	Click here.
 <br>![](/exercises/ex2/images/02_02_0010.png)
 
-## Exercise 2.11 Sub Exercise 2 Description
+## Exercise 2.11 Save Endpoint
 
 Click the “Save” button.
 
@@ -104,6 +104,6 @@ The monitoring data is collected right away, however.
 
 ## Summary
 
-You've now ...
+You've now successfully connected SAP HANA Cloud to SAP Cloud ALM
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
