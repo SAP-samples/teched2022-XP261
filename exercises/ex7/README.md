@@ -35,7 +35,9 @@ Use your credentials to log in.
 
 
 2.	Click here.
-<br>![](/exercises/ex7/images/7-2.png)
+<br>![](/exercises/ex7/images/7-2-1.png)
+
+<br>![](/exercises/ex7/images/7-2-2.png)
 
 ## Exercise 7.3 Go to Health Monitoring
 
