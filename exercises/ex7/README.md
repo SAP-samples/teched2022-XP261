@@ -157,4 +157,19 @@ Enter an explanation for closing the alert and click the “Save” button.
 
 You've now analyzed the alert and triggered the automation from the Alert Details
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+You have completed the exercise!
+
+You are now able to:
+
+•	Connect SAP HANA Cloud to SAP Cloud ALM
+
+•	Activate Health Monitoring for SAP HANA Cloud
+
+•	Maintain notification recipients and register operation flows
+
+•	Analyze metrics in Health Monitoring
+
+•	Trigger an operation flow from an alert
+
+•	Confirm an alert in Health Monitoring
+
