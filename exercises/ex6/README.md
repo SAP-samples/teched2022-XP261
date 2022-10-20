@@ -79,7 +79,9 @@ Confirm that you wan to stop the SAP HANA Cloud instance
 The SAP HANA Cloud instance will be stopped. You can click the “refresh” button to see when it is fully stopped.
 
 9.	Click here.
-<br>![](/exercises/ex6/images/6-9.png)
+<br>![](/exercises/ex6/images/6-9-1.png)
+
+<br>![](/exercises/ex6/images/6-9-1.png)
 
 
 ## Summary
