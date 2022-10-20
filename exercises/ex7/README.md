@@ -119,7 +119,9 @@ You can see that your HANA Cloud service is no longer in a critical state.
 Please refresh the application if the HANA Cloud still shows a critical state.
 
 12.	Click here.
-<br>![](/exercises/ex7/images/7-12.png)
+<br>![](/exercises/ex7/images/7-12-1.png)
+
+<br>![](/exercises/ex7/images/7-12-2.png)
 
 ## Exercise 7.13 Alert Inbox
 
