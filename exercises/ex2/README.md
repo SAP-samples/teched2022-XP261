@@ -64,7 +64,7 @@ Open the drop-down box  “Use Case”and select “Health Monitoring”
 ## Exercise 2.7 Change Root URL
 
 Replace the value in the field “Root URL” with: 
-https://api.gateway.orchestration.hana.prod-us20.hanacloud.ondemand.com 
+https://api.gateway.orchestration.prod-us20.hanacloud.ondemand.com 
 
 7.	Click here.
 <br>![](/exercises/ex2/images/2-7.png)
