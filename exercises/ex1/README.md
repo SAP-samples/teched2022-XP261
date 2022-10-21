@@ -48,7 +48,7 @@ Make sure the replace XXX with your group number!
 5.	Click here.
 <br>![](/exercises/ex1/images/1-5.png)
 
-## Exercise 1.6 Donwload Serviec Key
+## Exercise 1.6 Download Service Key
 
 After creating the Service Key, click on the three dots at the end of the row and select “Download”.
 
