@@ -19,7 +19,7 @@ The requirements to follow the exercises in this repository are...
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Exercise 1 -	Preparations in SAP HANA Cloud](exercises/ex1/)
-    - [Exercise 1.1 - Log in](exercises/ex1 ## Exercise 1.1 Log in)
+    - [Exercise 1.1 - Log in](exercises/ex1/ ## Exercise 1.1 Log in)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#Exercise 1.2 Navigate to Instances and Subscriptions)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 3 Description](exercises/ex1#Exercise 1.3 Select Instance)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 4 Description](exercises/ex1#Exercise 1.4 Find Service Key)
