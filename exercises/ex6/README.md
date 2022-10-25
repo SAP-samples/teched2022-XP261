@@ -16,7 +16,7 @@ Please connect via browser to the provided URL and use your credentials to log i
 
 
 1.	Click here.
-<br>![](/exercises/ex6/images/6-1.png)
+<br>![](/exercises/ex6/images/Ex6_1.png)
 
 
 ## Exercise 6.2 Navigate to Spaces
@@ -26,7 +26,7 @@ Please navigate to Cloud Foundry → Spaces.
 
 
 2.	Click here.
-<br>![](/exercises/ex6/images/6-2.png)
+<br>![](/exercises/ex6/images/Ex6_2.png)
 
 ## Exercise 6.3 Change group number
 
@@ -35,14 +35,14 @@ Make sure to replace XXX with your group number!
 
 
 3.	Click here.
-<br>![](/exercises/ex6/images/6-3.png)
+<br>![](/exercises/ex6/images/Ex6_3.png)
 
 ## Exercise 6.4 Go to SAP HANA Cloud
 
 Navigate to SAP HANA Cloud
 
 4.	Click here.
-<br>![](/exercises/ex6/images/6-4.png)
+<br>![](/exercises/ex6/images/Ex6_4.png)
 
 ## Exercise 6.5 Replace group number
 
@@ -50,14 +50,14 @@ Find the xp261-XXX-hana database and click on “Actions” → “Open in SAP H
 Make sure the replace XXX with your group number!
 
 5.	Click here.
-<br>![](/exercises/ex6/images/6-5.png)
+<br>![](/exercises/ex6/images/Ex6_5.png)
 
 ## Exercise 6.6 Enter identity provider
 
 Enter “tdcteched1-platform” as origin key for the identity provider
 
 6.	Click here.
-<br>![](/exercises/ex6/images/6-6.png)
+<br>![](/exercises/ex6/images/Ex6_6.png)
 
 ## Exercise 6.7 Replace group number
 
@@ -65,23 +65,23 @@ In the row for your xp261-XXX-hana
 Make sure the replace XXX with your group number!
 
 7.	Click here.
-<br>![](/exercises/ex6/images/6-7.png)
+<br>![](/exercises/ex6/images/Ex6_7.png)
 
 ## Exercise 6.8 Stop instance
 
 Confirm that you wan to stop the SAP HANA Cloud instance
 
 8.	Click here.
-<br>![](/exercises/ex6/images/6-8.png)
+<br>![](/exercises/ex6/images/Ex6_8.png)
 
 ## Exercise 6.9 Refresh execution
 
 The SAP HANA Cloud instance will be stopped. You can click the “refresh” button to see when it is fully stopped.
 
 9.	Click here.
-<br>![](/exercises/ex6/images/6-9-1.png)
+<br>![](/exercises/ex6/images/Ex6_9.png)
 
-<br>![](/exercises/ex6/images/6-9-1.png)
+<br>![](/exercises/ex6/images/Ex6_10.png)
 
 
 ## Summary
