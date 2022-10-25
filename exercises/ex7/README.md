@@ -64,7 +64,7 @@ Click on the row of the alert to open the alert details.
 
 
 5.	Click here.
-<br>![](/exercises/ex7/images/7Ex7_6.png)
+<br>![](/exercises/ex7/images/Ex7_6.png)
 
 ## Exercise 7.6 Check out the alert details
 
