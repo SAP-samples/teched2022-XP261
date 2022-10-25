@@ -16,7 +16,7 @@ Since you probably didn’t receive the email on your Teched Laptop, let’s ret
 
 
 1.	Click here.
-<br>![](/exercises/ex7/images/7-1.png)
+<br>![](/exercises/ex7/images/Ex7_1.png)
 
 
 ## Exercise 7.2 Log on to SAP Cloud ALM
@@ -35,16 +35,16 @@ Use your credentials to log in.
 
 
 2.	Click here.
-<br>![](/exercises/ex7/images/7-2-1.png)
+<br>![](/exercises/ex7/images/Ex7_2.png)
 
-<br>![](/exercises/ex7/images/7-2-2.png)
+<br>![](/exercises/ex7/images/Ex7_3.png)
 
 ## Exercise 7.3 Go to Health Monitoring
 
 Open the application “SAP Cloud ALM for Operations” → “Health Monitoring”
 
 3.	Click here.
-<br>![](/exercises/ex7/images/7-3.png)
+<br>![](/exercises/ex7/images/Ex7_4.png)
 
 ## Exercise 7.4 Access alert
 
@@ -55,7 +55,7 @@ Make sure the replace XXX with your group number!
 
 
 4.	Click here.
-<br>![](/exercises/ex7/images/7-4.png)
+<br>![](/exercises/ex7/images/Ex7_5.png)
 
 ## Exercise 7.5 Open alert details
 
@@ -64,7 +64,7 @@ Click on the row of the alert to open the alert details.
 
 
 5.	Click here.
-<br>![](/exercises/ex7/images/7-5.png)
+<br>![](/exercises/ex7/images/7Ex7_6.png)
 
 ## Exercise 7.6 Check out the alert details
 
@@ -73,14 +73,14 @@ You see that the alert is caused because the “Database Availability Check” h
 This means the database is offline and needs to be restarted.
 
 6.	Click here.
-<br>![](/exercises/ex7/images/7-6.png)
+<br>![](/exercises/ex7/images/Ex7_7.png)
 
 ## Exercise 7.7 Restart SAP HANA Cloud Instance
 
 Click on “Actions”→ “Start Operation Flow” to trigger your operation flow to restart the SAP HANA Cloud instance.
 
 7.	Click here.
-<br>![](/exercises/ex7/images/7-7.png)
+<br>![](/exercises/ex7/images/Ex7_8.png)
 
 ## Exercise 7.8 Select Operation Flow
 
@@ -89,7 +89,7 @@ Click the “Start” button in the line of the operation flow.
 Make sure the replace XXX with your group number!
 
 8.	Click here.
-<br>![](/exercises/ex7/images/7-8.png)
+<br>![](/exercises/ex7/images/Ex7_9.png)
 
 ## Exercise 7.9 Update status
 
@@ -97,21 +97,21 @@ You can see the status of the operations flow under the tab “Operation Automat
 You can use the “Refresh Alert Details” button to update the status.
 
 9.	Click here.
-<br>![](/exercises/ex7/images/7-9.png)
+<br>![](/exercises/ex7/images/Ex7_10.png)
 
 ## Exercise 7.10 Operation Flow completion
 
 Wait until your Operation Flow is successfully finished.
 
 10.	Click here.
-<br>![](/exercises/ex7/images/7-10.png)
+<br>![](/exercises/ex7/images/Ex7_11.png)
 
 ## Exercise 7.11 Health Monitoring
 
 Navigate back to the Health Monitoring Home screen.
 
 11.	Click here.
-<br>![](/exercises/ex7/images/7-11.png)
+<br>![](/exercises/ex7/images/Ex7_12.png)
 
 ## Exercise 7.12 Refresh application
 
@@ -119,16 +119,16 @@ You can see that your HANA Cloud service is no longer in a critical state.
 Please refresh the application if the HANA Cloud still shows a critical state.
 
 12.	Click here.
-<br>![](/exercises/ex7/images/7-12-1.png)
+<br>![](/exercises/ex7/images/Ex7_13.png)
 
-<br>![](/exercises/ex7/images/7-12-2.png)
+<br>![](/exercises/ex7/images/Ex7_14.png)
 
 ## Exercise 7.13 Alert Inbox
 
 Navigate back to the Alert Inbox.
 
 13.	Click here.
-<br>![](/exercises/ex7/images/7-13.png)
+<br>![](/exercises/ex7/images/Ex7_15.png)
 
 ## Exercise 7.14 Go to Alert Details
 
@@ -136,21 +136,21 @@ As you can see, the alert is rated green now.
 Select the alert to navigate to the alert details.
 
 14.	Click here.
-<br>![](/exercises/ex7/images/7-14.png)
+<br>![](/exercises/ex7/images/Ex7_16.png)
 
 ## Exercise 7.15 Close Alert
 
 Select “Actions” → “Confirm” to close the alert.
 
 15.	Click here.
-<br>![](/exercises/ex7/images/7-15.png)
+<br>![](/exercises/ex7/images/Ex7_17.png)
 
 ## Exercise 7.16 Enter explanation
 
 Enter an explanation for closing the alert and click the “Save” button.
 
 16.	Click here.
-<br>![](/exercises/ex7/images/7-16.png)
+<br>![](/exercises/ex7/images/Ex7_18.png)
 
 
 ## Summary
