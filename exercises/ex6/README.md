@@ -88,4 +88,4 @@ The SAP HANA Cloud instance will be stopped. You can click the “refresh” but
 
 You've now stoped the SAP HANA Cloud service
 
-Continue to - [Exercise 7 -	Analyze the alert and trigger the automation from the alert details ](../ex3/README.md)
+Continue to - [Exercise 7 -	Analyze the alert and trigger the automation from the alert details ](../ex7/README.md)
