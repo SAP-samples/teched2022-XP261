@@ -64,4 +64,4 @@ After clicking on the link, the email address in Notification Management will be
 
 You've now registered your user in Notification Management to receive emails from SAP Cloud ALM in case of an alert.
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 4 - Excercise 4 ](../ex4/README.md)
