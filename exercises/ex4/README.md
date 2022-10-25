@@ -87,4 +87,4 @@ Your operation flow will be added to the list.
 
 You've now registered your Automation from Automation Pilot
 
-Continue to - [Exercise 5 -	Register your Automation from Automation Pilot ](../ex5/README.md)
+Continue to - [Exercise 5 -	Find SAP HANA Cloud in Health Monitoring and set up an alert ](../ex5/README.md)
