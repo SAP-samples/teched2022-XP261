@@ -67,5 +67,5 @@ Make sure that the service key file is available in your laptop’s “Download�
 
 You've now successfully downloaded the service key.
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Exercise 2 - Connect SAP HANA Cloud to SAP Cloud ALM](../ex2/README.md)
 
