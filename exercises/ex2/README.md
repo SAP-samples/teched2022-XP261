@@ -118,4 +118,4 @@ The monitoring data is collected right away, however.
 
 You've now successfully connected SAP HANA Cloud to SAP Cloud ALM
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 3 -	Set up Notification Management ](../ex3/README.md)
