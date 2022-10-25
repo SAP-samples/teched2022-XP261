@@ -209,4 +209,4 @@ Click the configuration icon again to close the configuration panel.
 
 You've now set up an alert in Health Monitoring
 
-Continue to - [Exercise 6 -	Shut down SAP HANA Cloud DB to trigger an alert ](../ex6/README.md)
+Continue to - [Exercise 6 -	Stop SAP HANA Cloud DB to trigger an alert ](../ex6/README.md)
