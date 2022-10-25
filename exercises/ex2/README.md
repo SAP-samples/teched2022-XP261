@@ -105,7 +105,7 @@ Click the “Save” button.
 11.	Click here.
 <br>![](/exercises/ex2/images/Ex2_15.png)
 
-## Exercise 2.12 Sub Exercise 2 Description
+## Exercise 2.12 Check Data Collection
 
 The Health Monitoring data collection will be activated with the endpoint creation. 
 Currently, the status is collected by an hourly background job. So it will take up to 1 hour until the status for Health Monitoring under “Capabilities” changes.
