@@ -87,4 +87,4 @@ Your operation flow will be added to the list.
 
 You've now registered your Automation from Automation Pilot
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 5 -	Register your Automation from Automation Pilot ](../ex5/README.md)
