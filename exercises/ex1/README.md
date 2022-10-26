@@ -5,9 +5,10 @@ To successfully connect SAP HANA Cloud to SAP Cloud ALM, you need a service key 
 ## Exercise 1.1 Log in
 
 Your trainer will provide:  
-•	BTP Cockpit URL  
-•	User  
-•	Password  
+- BTP Cockpit URL
+- User
+- Password  
+
 Please connect via browser to the provided URL and use your credentials to log in.  
 
 <br>![](/exercises/ex1/images/Ex1_1.png)
