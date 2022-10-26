@@ -18,9 +18,10 @@ Since you probably didn’t receive the email on your Teched Laptop, let’s ret
 
 Log on to SAP Cloud ALM again.  
 Your trainer will provide:  
-•	SAP Cloud ALM URL  
-•	User email  
-•	Password  
+- SAP Cloud ALM URL
+- User email
+- Password  
+
 Please connect via browser to the provided URL. Select the **httpstdcteched1.accounts.ondemand.co** Identity Provider.  
 Use your credentials to log in. 
 
@@ -132,11 +133,10 @@ You've now analyzed the alert and triggered the automation from the Alert Detail
 You have completed the exercise!
 
 You are now able to:
-
-•	Connect SAP HANA Cloud to SAP Cloud ALM  
-•	Activate Health Monitoring for SAP HANA Cloud  
-•	Maintain notification recipients and register operation flows  
-•	Analyze metrics in Health Monitoring  
-•	Trigger an operation flow from an alert  
-•	Confirm an alert in Health Monitoring
+- Connect SAP HANA Cloud to SAP Cloud ALM
+- Activate Health Monitoring for SAP HANA Cloud
+- Maintain notification recipients and register operation flows
+- Analyze metrics in Health Monitoring
+- Trigger an operation flow from an alert
+- Confirm an alert in Health Monitoring
 
