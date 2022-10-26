@@ -10,7 +10,6 @@ Your trainer will provide:
 •	Password
 Please connect via browser to the provided URL and use your credentials to log in.  
 
-1. Click here.
 <br>![](/exercises/ex1/images/Ex1_1.png)
 
 
@@ -19,7 +18,6 @@ Please connect via browser to the provided URL and use your credentials to log i
 After login, you see the SAP BTP Cockpit subaccount overview.
 Please navigate to Services → Instances and Subscriptions.
 
-2.	Click here.
 <br>![](/exercises/ex1/images/Ex1_2.png)
 
 
@@ -29,14 +27,12 @@ Find the instance xp261-XXX-hana.
 Select the line in the “Instances” table. Make sure not to click on the links, as this will navigate elsewhere.
 Make sure the replace XXX with your group number!
 
-3.	Click here.
 <br>![](/exercises/ex1/images/Ex1_3.png)
 
 ## Exercise 1.4 Find Service Key
 
 Navigate to “Service Keys” and click the “Create” button.
 
-4.	Click here.
 <br>![](/exercises/ex1/images/Ex1_4.png)
 
 ## Exercise 1.5 Create Service Key
@@ -45,21 +41,18 @@ Enter “xp261_XXX_key” as Service Key Name and click the “Create” button.
 The creation will take a few minutes.
 Make sure the replace XXX with your group number!
 
-5.	Click here.
 <br>![](/exercises/ex1/images/Ex1_5.png)
 
 ## Exercise 1.6 Download Service Key
 
 After creating the Service Key, click on the three dots at the end of the row and select “Download”.
 
-6.	Click here.
 <br>![](/exercises/ex1/images/Ex1_6.png)
 
 ## Exercise 1.7 Check download location and file
 
 Make sure that the service key file is available in your laptop’s “Download” folder.
 
-7.	Click here.
 <br>![](/exercises/ex1/images/Ex1_7.png)
 
 
@@ -68,4 +61,3 @@ Make sure that the service key file is available in your laptop’s “Download�
 You've now successfully downloaded the service key.
 
 Continue to - [Exercise 2 - Connect SAP HANA Cloud to SAP Cloud ALM](../ex2/README.md)
-
