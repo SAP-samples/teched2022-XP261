@@ -2,6 +2,9 @@
 
 ## Exercise Landscape
 
+Each attendee has an own SAP HANA Cloud database. The SAP Cloud ALM tenant is shared between all attendees.
+
+<br>![](/exercises/Login_Information/Exercise_landscape.png)
 
 ## Login Information
 
