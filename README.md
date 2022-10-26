@@ -16,8 +16,6 @@ The requirements to follow the exercises in this repository are...
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
 - [Exercise 1 -	Preparations in SAP HANA Cloud](exercises/ex1/)
 - [Exercise 2 -	Connect SAP HANA Cloud to SAP Cloud ALM](exercises/ex2/)
 - [Exercise 3 -	Set up Notification Management](exercises/ex3/)
@@ -26,7 +24,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 6 -	Stop SAP HANA Cloud DB to trigger an alert](exercises/ex6/)
 - [Exercise 7 -	Analyze the alert and trigger the automation from the alert details](exercises/ex7/)
 
-Start the exercises [here](../excercises/ex1/README.md). 
+Start the exercises [here](excercises/ex1/README.md). 
 
 ## How to obtain support
 
