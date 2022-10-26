@@ -20,11 +20,11 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
 - [Exercise 1 -	Preparations in SAP HANA Cloud](exercises/ex1/)
 - [Exercise 2 -	Connect SAP HANA Cloud to SAP Cloud ALM](exercises/ex2/)
-- [Exercise 3 -	Connect SAP HANA Cloud to SAP Cloud ALM](exercises/ex3/)
-- [Exercise 4 -	Connect SAP HANA Cloud to SAP Cloud ALM](exercises/ex4/)
-- [Exercise 5 -	Connect SAP HANA Cloud to SAP Cloud ALM](exercises/ex5/)
-- [Exercise 6 -	Connect SAP HANA Cloud to SAP Cloud ALM](exercises/ex6/)
-- [Exercise 7 -	Connect SAP HANA Cloud to SAP Cloud ALM](exercises/ex7/)
+- [Exercise 3 -	Set up Notification Management](exercises/ex3/)
+- [Exercise 4 -	Register your Automation from Automation Pilot](exercises/ex4/)
+- [Exercise 5 -	Find SAP HANA Cloud in Health Monitoring and set up an alert](exercises/ex5/)
+- [Exercise 6 -	Stop SAP HANA Cloud DB to trigger an alert](exercises/ex6/)
+- [Exercise 7 -	Analyze the alert and trigger the automation from the alert details](exercises/ex7/)
 
 Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html). 
 
