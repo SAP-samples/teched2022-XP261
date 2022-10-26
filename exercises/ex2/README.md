@@ -7,9 +7,10 @@ Endpoints are created in the Landscape Management application.
 ## Exercise 2.1 Log in
 
 Your trainer will provide:  
-•	SAP Cloud ALM URL  
-•	User email  
-•	Password  
+- SAP Cloud ALM URL
+- User email
+- Password  
+
 Please connect via browser to the provided URL. Select the **httpstdcteched1.accounts.ondemand.co** Identity Provider.
 Use your credentials to log in. 
 
