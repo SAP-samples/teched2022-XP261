@@ -24,7 +24,7 @@ The requirements to follow the exercises in this repository are...
 - [Exercise 6 -	Stop SAP HANA Cloud DB to trigger an alert](exercises/ex6/)
 - [Exercise 7 -	Analyze the alert and trigger the automation from the alert details](exercises/ex7/)
 
-Start the exercises [here](excercises/ex1/README.md). 
+Start the exercises [here](exercises/ex1/). 
 
 ## How to obtain support
 
