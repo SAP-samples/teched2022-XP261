@@ -12,7 +12,10 @@ In this session, you will get a detailed overview of the capabilities of Health 
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository 
+
+- internet access
+- basic operations and SAP BTP knowledge
 
 ## Exercises
 
