@@ -26,7 +26,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 6 -	Stop SAP HANA Cloud DB to trigger an alert](exercises/ex6/)
 - [Exercise 7 -	Analyze the alert and trigger the automation from the alert details](exercises/ex7/)
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html). 
+Start the exercises [here](../excercises/ex1/README.md). 
 
 ## How to obtain support
 
