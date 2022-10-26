@@ -4,10 +4,10 @@ To successfully connect SAP HANA Cloud to SAP Cloud ALM, you need a service key 
 
 ## Exercise 1.1 Log in
 
-Your trainer will provide:
-•	BTP Cockpit URL
-•	User
-•	Password
+Your trainer will provide:  
+•	BTP Cockpit URL  
+•	User  
+•	Password  
 Please connect via browser to the provided URL and use your credentials to log in.  
 
 <br>![](/exercises/ex1/images/Ex1_1.png)
@@ -15,7 +15,7 @@ Please connect via browser to the provided URL and use your credentials to log i
 
 ## Exercise 1.2 Navigate to Instances and Subscriptions
 
-After login, you see the SAP BTP Cockpit subaccount overview.
+After login, you see the SAP BTP Cockpit subaccount overview.  
 Please navigate to Services → Instances and Subscriptions.
 
 <br>![](/exercises/ex1/images/Ex1_2.png)
@@ -23,9 +23,9 @@ Please navigate to Services → Instances and Subscriptions.
 
 ## Exercise 1.3 Select Instance
 
-Find the instance xp261-XXX-hana. 
-Select the line in the “Instances” table. Make sure not to click on the links, as this will navigate elsewhere.
-Make sure the replace XXX with your group number!
+Find the instance xp261-XXX-hana. Select the line in the “Instances” table.  
+Make sure not to click on the links, as this will navigate elsewhere.  
+Make sure the replace _**XXX**_ with your group number!
 
 <br>![](/exercises/ex1/images/Ex1_3.png)
 
@@ -38,8 +38,8 @@ Navigate to “Service Keys” and click the “Create” button.
 ## Exercise 1.5 Create Service Key
 
 Enter “xp261_XXX_key” as Service Key Name and click the “Create” button.
-The creation will take a few minutes.
-Make sure the replace XXX with your group number!
+The creation will take a few minutes.  
+Make sure the replace _**XXX**_ with your group number!  
 
 <br>![](/exercises/ex1/images/Ex1_5.png)
 
