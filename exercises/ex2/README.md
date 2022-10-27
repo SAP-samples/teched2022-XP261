@@ -57,9 +57,15 @@ Open the drop-down box “Use Case” and select “Health Monitoring”
 Replace the value in the field “Root URL” with:  
 **https://api.gateway.orchestration.prod-us20.hanacloud.ondemand.com**
 
-<br>![](/exercises/ex2/images/Ex2_8.png)
+<br>![](/exercises/ex2/images/Ex2_7a.png)
 
-## Exercise 2.8 Copy Service Key
+## Exercise 2.8 Select Authentication Method
+
+Select the authentication method "OAuth2ClientCredentials"
+
+<br>![](/exercises/ex2/images/Ex2_7b.png)
+
+## Exercise 2.9 Copy Service Key
 
 Open the Service Key you downloaded earlier and copy the entire key into the clipboard (Ctrl+A followed by Ctrl+C)
 
@@ -67,7 +73,7 @@ Open the Service Key you downloaded earlier and copy the entire key into the cli
 
 <br>![](/exercises/ex2/images/Ex2_10.png)
 
-## Exercise 2.9 Past Service Key
+## Exercise 2.10 Past Service Key
 
 Back in the endpoint creation screen, click the “Paste Service Key” button.  
 Allow the text to be copied.
@@ -76,7 +82,7 @@ Allow the text to be copied.
 
 <br>![](/exercises/ex2/images/Ex2_12.png)
 
-## Exercise 2.10 Check Connection
+## Exercise 2.11 Check Connection
 
 Click the button “Check Connection”.  
 You should receive a “Success” message.
@@ -85,7 +91,7 @@ You should receive a “Success” message.
 
 <br>![](/exercises/ex2/images/Ex2_14.png)
 
-## Exercise 2.11 Save Endpoint
+## Exercise 2.12 Save Endpoint
 
 Click the “Save” button.
 
