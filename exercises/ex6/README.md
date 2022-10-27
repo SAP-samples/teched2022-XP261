@@ -15,10 +15,15 @@ Please connect via browser to the provided URL and use your credentials to log i
 
 ## Exercise 6.2 Navigate to Spaces
 
-After login, you see the SAP BTP Cockpit subaccount overview.  
+After login, you see the SAP BTP Cockpit global account overview.  
+Select the subaccount XP261-XXX  
+Make sure the replace _**XXX**_ with your group number!
+
+<br>![](/exercises/ex1/images/Ex6_2a.png)
+
 Please navigate to Cloud Foundry → Spaces.
 
-<br>![](/exercises/ex6/images/Ex6_2.png)
+<br>![](/exercises/ex6/images/Ex6_2b.png)
 
 ## Exercise 6.3 Navigate to your Space
 
