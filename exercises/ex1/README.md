@@ -22,24 +22,23 @@ Make sure the replace _**XXX**_ with your group number!
 
 <br>![](/exercises/ex1/images/Ex1_2a.png)
 
-Please navigate to Services → Instances and Subscriptions.
+Please navigate to the service instance.
 
-<br>![](/exercises/ex1/images/Ex1_2.png)
-
+<br>![](/exercises/ex1/images/Ex1_2b.png)
 
 ## Exercise 1.3 Select Instance
 
-Find the instance xp261-XXX-hana. Select the line in the “Instances” table.  
+Find the instance xp261-XXX-hana.  
 Make sure not to click on the links, as this will navigate elsewhere.  
 Make sure the replace _**XXX**_ with your group number!
 
-<br>![](/exercises/ex1/images/Ex1_3.png)
+<br>![](/exercises/ex1/images/Ex1_3a.png)
 
 ## Exercise 1.4 Find Service Key
 
 Navigate to “Service Keys” and click the “Create” button.
 
-<br>![](/exercises/ex1/images/Ex1_4.png)
+<br>![](/exercises/ex1/images/Ex1_4a.png)
 
 ## Exercise 1.5 Create Service Key
 
@@ -47,13 +46,13 @@ Enter “xp261_XXX_key” as Service Key Name and click the “Create” button.
 The creation will take a few minutes.  
 Make sure the replace _**XXX**_ with your group number!  
 
-<br>![](/exercises/ex1/images/Ex1_5.png)
+<br>![](/exercises/ex1/images/Ex1_5a.png)
 
 ## Exercise 1.6 Download Service Key
 
 After creating the Service Key, click on the three dots at the end of the row and select “Download”.
 
-<br>![](/exercises/ex1/images/Ex1_6.png)
+<br>![](/exercises/ex1/images/Ex1_6a.png)
 
 ## Exercise 1.7 Check download location and file
 
