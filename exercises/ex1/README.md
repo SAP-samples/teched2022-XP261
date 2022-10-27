@@ -16,7 +16,12 @@ Please connect via browser to the provided URL and use your credentials to log i
 
 ## Exercise 1.2 Navigate to Instances and Subscriptions
 
-After login, you see the SAP BTP Cockpit subaccount overview.  
+After login, you see the SAP BTP Cockpit global account overview.  
+Select the subaccount XP261-XXX  
+Make sure the replace _**XXX**_ with your group number!
+
+<br>![](/exercises/ex1/images/Ex1_2a.png)
+
 Please navigate to Services → Instances and Subscriptions.
 
 <br>![](/exercises/ex1/images/Ex1_2.png)
