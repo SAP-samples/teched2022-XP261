@@ -1,6 +1,6 @@
 # Exercise 7 - Analyze the Alert and trigger the automation from the Alert Details
 
-After some minutes, you will receive an alert from SAP Cloud ALM Notification that the database is unavailable. If you didn’t enter your email address, you could also find the alert directly in the Health Monitoring application.
+After some minutes, you will receive an alert from SAP Cloud ALM Notification that the database is unavailable. If you entered your email address you will receive an alert notification email. If you didn’t enter your email address, you could also find the alert directly in the Health Monitoring application.
 After receiving the alert, you can trigger the automation flow to restart your HANA Cloud instance.
 
 ## Exercise 7.1 Look up email notification
