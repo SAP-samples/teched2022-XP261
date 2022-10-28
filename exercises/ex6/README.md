@@ -5,60 +5,49 @@ To stop SAP HANA Cloud, you have to access the BTP Cockpit again. From there, yo
 ## Exercise 6.1 Open BTP Cockpit
 
 Your trainer will provide:  
-- BTP Cockpit URL
-- User
-- Password  
+- BTP Cockpit URL: https://cockpit.us10.hana.ondemand.com/cockpit/?idp=tdcteched1.accounts.ondemand.com#/globalaccount/fb7dfea1-5d8c-431d-bd16-1ebbe842f62f
+- User: xp261-XXX@tdcteched.com (Please replace _**XXX**_ with your group number) 
+- Password: coming soon
 
-Please connect via browser to the provided URL and use your credentials to log in.
-
+Please connect via browser to the provided URL and use your credentials to log in.  
 <br>![](/exercises/ex6/images/Ex6_1.png)
 
-## Exercise 6.2 Navigate to Spaces
+## Exercise 6.2 Navigate to your SAP HANA Cloud
 
 After login, you see the SAP BTP Cockpit global account overview.  
 Select the subaccount XP261-XXX  
-Make sure the replace _**XXX**_ with your group number!  
-
+Make sure to replace _**XXX**_ with your group number!  
 <br>![](/exercises/ex6/images/Ex6_2a.png)
 
-Please navigate to Cloud Foundry → Spaces.
-
+Please navigate to Cloud Foundry → Spaces.  
 <br>![](/exercises/ex6/images/Ex6_2b.png)
 
-## Exercise 6.3 Navigate to your Space
-
 Click on the space XP261-XXX-DEV  
-Make sure to replace _**XXX**_ with your group number!
-
+Make sure to replace _**XXX**_ with your group number!  
 <br>![](/exercises/ex6/images/Ex6_3.png)
 
-## Exercise 6.4 Go to SAP HANA Cloud
-
-Navigate to SAP HANA Cloud
-
+Navigate to SAP HANA Cloud  
 <br>![](/exercises/ex6/images/Ex6_4.png)
 
-## Exercise 6.5 Navigate to SAP HANA Cloud Central
+## Exercise 6.3 Navigate to SAP HANA Cloud Central
 
 Find the xp261-XXX-hana database and click on “Actions” → “Open in SAP HANA Cloud Central”.  
-Make sure the replace _**XXX**_ with your group number!
+Make sure to replace _**XXX**_ with your group number!
 
 <br>![](/exercises/ex6/images/Ex6_5.png)
 
-## Exercise 6.6 Logon to SAP HANA Cloud Central
+## Exercise 6.4 Logon to SAP HANA Cloud Central
 
 Enter **“tdcteched1-platform”** as origin key for the identity provider.
 
 <br>![](/exercises/ex6/images/Ex6_6.png)
 
-## Exercise 6.7 Replace group number
+## Exercise 6.5 Stop HANA Cloud Instance
 
 In the row for your xp261-XXX-hana click on the three dots at the end of the line and select "Stop".  
-Make sure the replace _**XXX**_ with your group number!
+Make sure to replace _**XXX**_ with your group number!
 
 <br>![](/exercises/ex6/images/Ex6_7.png)
-
-## Exercise 6.8 Stop instance
 
 Confirm that you want to stop the SAP HANA Cloud instance.
 
