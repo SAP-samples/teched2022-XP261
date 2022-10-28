@@ -43,7 +43,7 @@ In this screen, you can see all metrics that are collected for SAP HANA Cloud.
 Click the “Favorites” button to add this SAP HANA Cloud service to your favorites.  
 <br>![](/exercises/ex5/images/Ex5_9.png)
 
-## Exercise 5.10 Navigate to Metric Reporting
+## Exercise 5.7 Navigate to Metric Reporting
 
 Select the metric “Ping Time”  
 <br>![](/exercises/ex5/images/Ex5_10.png)
@@ -60,7 +60,7 @@ Use the controls in the upper left area to adjust the metric history’s timefra
 Close the window by clicking on the “Close” button.  
 <br>![](/exercises/ex5/images/Ex5_13.png)
 
-## Exercise 5.11 Return to Health Monitoring Home Screen
+## Exercise 5.8 Return to Health Monitoring Home Screen
 
 Click the “Home” icon to return to the Health Monitoring start screen.   
 <br>![](/exercises/ex5/images/Ex5_14.png)
@@ -68,12 +68,12 @@ Click the “Home” icon to return to the Health Monitoring start screen.
 You will now see your SAP HANA Cloud service in the “Favorites” area  
 <br>![](/exercises/ex5/images/Ex5_15.png)
 
-## Exercise 5.12 Open Health Monitoring Configuration
+## Exercise 5.9 Open Health Monitoring Configuration
 
 Click on the “Configuration” button to open the Configuration tray to set up an alert.  
 <br>![](/exercises/ex5/images/Ex5_16.png)
 
-## Exercise 5.13 Select HANA Cloud service
+## Exercise 5.10 Select HANA Cloud service
 
 Open the “Services” tray  
 <br>![](/exercises/ex5/images/Ex5_17.png)
@@ -81,7 +81,7 @@ Open the “Services” tray
 Click on the name of your SAP HANA Cloud  
 <br>![](/exercises/ex5/images/Ex5_18.png)
 
-## Exercise 5.14 Select metric Database Availability Check
+## Exercise 5.11 Set up Threshold
 
 Here you see all metrics that are collected for this SAP HANA Cloud.  
 Click on the metric “Database Availability Check”  
@@ -94,7 +94,7 @@ The threshold is now activated.
 Click on the tab “Events” to create an alert.  
 <br>![](/exercises/ex5/images/Ex5_21.png)
 
-## Exercise 5.15 Set up Alert
+## Exercise 5.12 Set up Alert
 
 In this screen you see all events that are available for the SAP HANA Cloud service.  
 Click on “Database Accessibility” to set up an availability alert.  
@@ -116,7 +116,7 @@ You have now set up an alert with an email recipient.
 Click the “Close” button to close the configuration.  
 <br>![](/exercises/ex5/images/Ex5_27.png)
 
-## Exercise 5.16 Close Health Monitoring Configuration
+## Exercise 5.13 Close Health Monitoring Configuration
 
 Click the configuration icon again to close the configuration panel.  
 <br>![](/exercises/ex5/images/Ex5_28.png)
