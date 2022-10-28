@@ -10,29 +10,25 @@ The email contains two links:
 1)	The first link takes you to the Alert Inbox of Health Monitoring  
 2)	The second link takes you to the metric details for the service in Health Monitoring  
 
-Since you probably didn’t receive the email on your Teched Laptop, let’s return to Health Monitoring to find the alert there.
-
+Since you probably didn’t receive the email on your Teched Laptop, let’s return to Health Monitoring to find the alert there.  
 <br>![](/exercises/ex7/images/Ex7_1.png)
 
 ## Exercise 7.2 Log on to SAP Cloud ALM
 
 Log on to SAP Cloud ALM again.  
 Your trainer will provide:  
-- SAP Cloud ALM URL
-- User email
-- Password  
+- SAP Cloud ALM URL: https://teched22-cloudalm-002.eu10.alm.cloud.sap/launchpad#Shell-home
+- User: xp261-XXX@tdcteched.com (Please replace _**XXX**_ with your group number)
+- Password: Coming soon
 
 Please connect via browser to the provided URL. Select the **httpstdcteched1.accounts.ondemand.co** Identity Provider.  
-Use your credentials to log in. 
-
-<br>![](/exercises/ex7/images/Ex7_2.png)
-
+Use your credentials to log in.  
+<br>![](/exercises/ex7/images/Ex7_2.png)  
 <br>![](/exercises/ex7/images/Ex7_3.png)
 
 ## Exercise 7.3 Go to Health Monitoring
 
-Open the application “SAP Cloud ALM for Operations” → “Health Monitoring”
-
+Open the application “SAP Cloud ALM for Operations” → “Health Monitoring”  
 <br>![](/exercises/ex7/images/Ex7_4.png)
 
 ## Exercise 7.4 Access alert
@@ -40,53 +36,41 @@ Open the application “SAP Cloud ALM for Operations” → “Health Monitoring
 In the Health Monitoring Overview screen, you will find the same services you selected the last time and your favorites.  
 You can see that the XP261-XXX-HANA has a critical status.  
 To access the alert, you can (1) click on the number of alerts or (2) navigate directly to the Alert Inbox.  
-Make sure the replace _**XXX**_ with your group number!
-
+Make sure to replace _**XXX**_ with your group number!  
 <br>![](/exercises/ex7/images/Ex7_5.png)
 
 ## Exercise 7.5 Open alert details
 
 In the Alert Inbox, you can now find your alert.  
-Click on the row of the alert to open the alert details.
-
+Click on the row of the alert to open the alert details.  
 <br>![](/exercises/ex7/images/Ex7_6.png)
-
-## Exercise 7.6 Check the alert details
 
 In the alert details, you can see how long the alert has been going on and which metrics caused the alert.  
 You see that the alert is caused because the “Database Availability Check” has a red rating.  
-This means the database is offline and needs to be restarted.
-
+This means the database is offline and needs to be restarted.  
 <br>![](/exercises/ex7/images/Ex7_8.png)
 
 ## Exercise 7.7 Start an Operation Flow
 
-Click on “Actions” → “Start Operation Flow” to trigger your operation flow to restart the SAP HANA Cloud instance.
-
+Click on “Actions” → “Start Operation Flow” to trigger your operation flow to restart the SAP HANA Cloud instance.  
 <br>![](/exercises/ex7/images/Ex7_9.png)
 
-## Exercise 7.8 Restart SAP HANA Cloud Instance
-
 Filter for “xp261-XXX-hana” to find the correct operation flow to start your HANA DB.  
+If you used another description for you operations flow during the registration, you have to enter this as search string.  
 Click the “Start” button in the line of the operation flow.  
-Make sure the replace _**XXX**_ with your group number!
-
+Make sure to replace _**XXX**_ with your group number!  
 <br>![](/exercises/ex7/images/Ex7_10.png)
 
 ## Exercise 7.9 Update status
 
 You can see the status of the operations flow under the tab “Operation Automation Logs”.  
-You can use the “Refresh Alert Details” button to update the status.
-
+You can use the “Refresh Alert Details” button to update the status.  
 <br>![](/exercises/ex7/images/Ex7_11.png)
 
-## Exercise 7.10 Operation Flow completion
-
-Wait until your Operation Flow is successfully finished.
-
+Wait until your Operation Flow is successfully finished.  
 <br>![](/exercises/ex7/images/Ex7_12.png)
 
-## Exercise 7.11 Health Monitoring
+## Exercise 7.11 Navigate back to the Health Monitoring Home Screen
 
 Navigate back to the Health Monitoring Home screen.
 
