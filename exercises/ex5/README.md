@@ -1,98 +1,82 @@
 # Exercise 5 - Find SAP HANA Cloud in Health Monitoring and set up an alert
 
-Now we will find SAP HANA Cloud in Health Monitoring and navigate to the metric details and metric history. Then we will set up an alert. When this alert happens, an email will be sent to your registered email address.
+Now we will find SAP HANA Cloud in Health Monitoring and navigate to the metric details and metric history. Then we will set up an alert. When this alert is triggered, an email will be sent to your registered email address.
 
 ## Exercise 5.1 Go back to Launchpad
 
-Navigate back to the SAP Cloud ALM Launchpad.
-
+Navigate back to the SAP Cloud ALM Launchpad.  
 <br>![](/exercises/ex5/images/Ex5_1.png)
-
 
 ## Exercise 5.2 Open Health Monitoring
 
-Open the application “SAP Cloud ALM for Operations” → “Health Monitoring”
-
+Open the application “SAP Cloud ALM for Operations” → “Health Monitoring”  
 <br>![](/exercises/ex5/images/Ex5_2.png)
 
 ## Exercise 5.3 Scope Selection
 
 In the Health Monitoring start screen, you will see all services that are configured.  
-Click the “Scope Selection” button to select only your HANA Cloud.
-
+Click the “Scope Selection” button to select only _your_ HANA Cloud.  
 <br>![](/exercises/ex5/images/Ex5_3.png)
 
 ## Exercise 5.4 Select HANA Cloud
 
-Select the HANA Cloud for _your group number_ and press the “Apply” button
-
+Select the HANA Cloud with the name XP261-**XXX**-HANA and press the “Apply” button  
 <br>![](/exercises/ex5/images/Ex5_4.png)
 
 ## Exercise 5.5 Updated View
 
-Now you will see only your HANA Cloud.
-
+Now you will see only your HANA Cloud.  
 <br>![](/exercises/ex5/images/Ex5_5.png)
 
 ## Exercise 5.6 Navigate to details
 
-Click on “SAP HANA Cloud” to navigate to the details for the service.
-
+Click on “SAP HANA Cloud” to navigate to the details for the service.  
 <br>![](/exercises/ex5/images/Ex5_6.png)
 
 ## Exercise 5.7 Navigate to metric details
 
-Click on the row with your HANA Cloud to navigate to the metric details.
-
+Click on the row with your HANA Cloud to navigate to the metric details.  
 <br>![](/exercises/ex5/images/Ex5_7.png)
 
 ## Exercise 5.8 View metrics
 
-In this screen, you can see all metrics that are collected for SAP HANA Cloud.
-
+In this screen, you can see all metrics that are collected for SAP HANA Cloud.  
 <br>![](/exercises/ex5/images/Ex5_8.png)
 
 ## Exercise 5.9 Add your HANA Cloud as Favorite
 
-Click the “Favorites” button to add this SAP HANA Cloud service to your favorites.
-
+Click the “Favorites” button to add this SAP HANA Cloud service to your favorites.  
 <br>![](/exercises/ex5/images/Ex5_9.png)
 
 ## Exercise 5.10 Select metric
 
-Select the metric “Ping Time”
-
+Select the metric “Ping Time”  
 <br>![](/exercises/ex5/images/Ex5_10.png)
 
 ## Exercise 5.11 Select History
 
 In the righthand screen area, you see all HANA service instances for which this metric was collected.  
-Click on the “History” button to open the metric reporting.
-
+Click on the “History” button to open the metric reporting.  
 <br>![](/exercises/ex5/images/Ex5_11.png)
 
 ## Exercise 5.12 Adjust timeframe
 
-You can use the controls in the upper left area to adjust the metric history’s timeframe and resolution.
-
+You can use the controls in the upper left area to adjust the metric history’s timeframe and resolution.  
 <br>![](/exercises/ex5/images/Ex5_12.png)
 
 ## Exercise 5.13 Close window 
 
-Close the window by clicking on the “Close” button.
-
+Close the window by clicking on the “Close” button.  
 <br>![](/exercises/ex5/images/Ex5_13.png)
 
 ## Exercise 5.14 Return to Health Monitoring
 
-Click the “Home” icon to return to the Health Monitoring start screen. 
-
+Click the “Home” icon to return to the Health Monitoring start screen.   
 <br>![](/exercises/ex5/images/Ex5_14.png)
 
 ## Exercise 5.15 See service in favorites
 
-You will now see your SAP HANA Cloud service in the “Favorites” area
-
+You will now see your SAP HANA Cloud service in the “Favorites” area  
 <br>![](/exercises/ex5/images/Ex5_15.png)
 
 ## Exercise 5.16 Set up alert
