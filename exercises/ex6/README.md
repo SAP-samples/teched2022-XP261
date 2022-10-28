@@ -32,34 +32,29 @@ Navigate to SAP HANA Cloud
 ## Exercise 6.3 Navigate to SAP HANA Cloud Central
 
 Find the xp261-XXX-hana database and click on “Actions” → “Open in SAP HANA Cloud Central”.  
-Make sure to replace _**XXX**_ with your group number!
-
+Make sure to replace _**XXX**_ with your group number!  
 <br>![](/exercises/ex6/images/Ex6_5.png)
 
 ## Exercise 6.4 Logon to SAP HANA Cloud Central
 
-Enter **“tdcteched1-platform”** as origin key for the identity provider.
-
+Enter **“tdcteched1-platform”** as origin key for the identity provider.  
 <br>![](/exercises/ex6/images/Ex6_6.png)
 
 ## Exercise 6.5 Stop HANA Cloud Instance
 
 In the row for your xp261-XXX-hana click on the three dots at the end of the line and select "Stop".  
-Make sure to replace _**XXX**_ with your group number!
-
+Make sure to replace _**XXX**_ with your group number!  
 <br>![](/exercises/ex6/images/Ex6_7.png)
 
-Confirm that you want to stop the SAP HANA Cloud instance.
-
+Confirm that you want to stop the SAP HANA Cloud instance.  
 <br>![](/exercises/ex6/images/Ex6_8.png)
 
 ## Exercise 6.9 Refresh execution
 
-The SAP HANA Cloud instance will be stopped. You can click the “refresh” button to see when it is fully stopped.
-
-<br>![](/exercises/ex6/images/Ex6_9.png)
-
-<br>![](/exercises/ex6/images/Ex6_10.png)
+The SAP HANA Cloud instance will be stopped. You can click the “refresh” button to see when it is fully stopped.  
+Please note that it can take a few minutes until the HANA Cloud is completely stopped.  
+<br>![](/exercises/ex6/images/Ex6_9.png)  
+<br>![](/exercises/ex6/images/Ex6_10.png)  
 
 ## Summary
 
