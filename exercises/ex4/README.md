@@ -37,8 +37,7 @@ Select the line “StartHanaCloudInstance”
 Now you have to select the predefined input parameters, to make sure that the correct HANA Cloud is restarted.  
 Enter **XP261-T000156R3:InputXp261HanaXXX** in the field “Input Reference”.  
 Select the input for your group number **“InputXp261HanaXXX”** by clicking on the input name.  
-Make sure to replace _**XXX**_ with your group number!
-
+Make sure to replace _**XXX**_ with your group number!  
 <br>![](/exercises/ex4/images/Ex4_6.png)
 
 ## Exercise 4.7 Enter Description
