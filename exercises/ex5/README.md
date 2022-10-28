@@ -57,6 +57,9 @@ The metrics for SAP HANA Cloud are collected every 5 minutes. You can display al
 Use the controls in the upper left area to adjust the metric history’s timeframe and resolution.  
 <br>![](/exercises/ex5/images/Ex5_12.png)
 
+Move the lever to set the resolution to 1 minute and click "Apply".  
+<br>![](/exercises/ex5/images/Ex5_12a.png)
+
 Close the window by clicking on the “Close” button.  
 <br>![](/exercises/ex5/images/Ex5_13.png)
 
