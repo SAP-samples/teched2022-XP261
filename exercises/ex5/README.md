@@ -48,7 +48,7 @@ Click the “Favorites” button to add this SAP HANA Cloud service to your favo
 Select the metric “Ping Time”  
 <br>![](/exercises/ex5/images/Ex5_10.png)
 
-In the righthand screen area, you see all HANA service instances for which this metric was collected.  
+In the right-hand screen area, you see all HANA service instances for which this metric was collected.  
 Click on the “History” button to open the metric reporting.  
 <br>![](/exercises/ex5/images/Ex5_11.png)
 
@@ -91,7 +91,7 @@ Leave the status mapping as suggested and click the “Save” button to activat
 <br>![](/exercises/ex5/images/Ex5_20.png)
 
 The threshold is now activated.  
-Click on the tab “Events” to create an alert.  
+Click on the tab “Events” to activate alerting.  
 <br>![](/exercises/ex5/images/Ex5_21.png)
 
 ## Exercise 5.12 Set up Alert
@@ -103,10 +103,10 @@ Click on “Database Accessibility” to set up an availability alert.
 Switch the slider button for “Create Alert” and “Send Email” to ON.  
 <br>![](/exercises/ex5/images/Ex5_23.png)
 
-Click the “+” button to add your email recipient.  
+Click the “+” button to add your email recipient (Optional).  
 <br>![](/exercises/ex5/images/Ex5_24.png)
 
-Select _your_ email address from the list and click the “OK” button.  
+Select _your_ email address from the list and click the “OK” button (Optional).  
 <br>![](/exercises/ex5/images/Ex5_25.png)
 
 Click the “Save” button to save your setup.  
