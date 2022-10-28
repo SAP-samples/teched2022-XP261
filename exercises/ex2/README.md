@@ -48,7 +48,7 @@ Open the drop-down box “Use Case” and select “Health Monitoring”
 
 Replace the value in the field “Root URL” with:  
 "**https://api.gateway.orchestration.prod-us20.hanacloud.ondemand.com**"  
-Be careful that no blanks are in front or behing the root URL.  
+Do not copy the "" and be careful that no blanks are in front or behind the root URL.  
 <br>![](/exercises/ex2/images/Ex2_7a.png)
 
 ## Exercise 2.8 Select Authentication Method
