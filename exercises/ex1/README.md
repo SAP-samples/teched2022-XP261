@@ -44,6 +44,7 @@ Make sure to replace _**XXX**_ with your group number!
 Wait until the service key is created and available.  
 After creating the Service Key, click on the three dots at the end of the row and select “Download”.  
 <br>![](/exercises/ex1/images/Ex1_6a.png)  
+
 You can also display the service key using the "View" option and leave the browser tab open. Then you can use the "Copy JSON" button to copy the service key to SAP Cloud ALM.  
 <br>![](/exercises/ex1/images/Ex1_6b.png)  
 <br>![](/exercises/ex1/images/Ex1_6c.png)  
