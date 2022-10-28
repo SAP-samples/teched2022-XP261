@@ -7,17 +7,14 @@ Endpoints are created in the Landscape Management application.
 ## Exercise 2.1 Log in
 
 Your trainer will provide:  
-- SAP Cloud ALM URL
-- User email
-- Password  
+- SAP Cloud ALM URL: https://teched22-cloudalm-002.eu10.alm.cloud.sap/launchpad#Shell-home
+- User: xp261-XXX@tdcteched.com ()
+- Password: Coming soon
 
 Please connect via browser to the provided URL. Select the **httpstdcteched1.accounts.ondemand.co** Identity Provider.
-Use your credentials to log in. 
-
-<br>![](/exercises/ex2/images/Ex2_1.png)
-
+Use your credentials to log in.  
+<br>![](/exercises/ex2/images/Ex2_1.png)  
 <br>![](/exercises/ex2/images/Ex2_2.png)
-
 
 ## Exercise 2.2 SAP Cloud ALM Starting Page
 
@@ -36,7 +33,7 @@ Click on “Administration” → “Landscape Management”
 
 The Landscape Management will open in a new tab.  
 Select the entry XP261-XXX-HANA for your group number.  
-Make sure the replace _**XXX**_ with your group number!
+Make sure to replace _**XXX**_ with your group number!
 
 <br>![](/exercises/ex2/images/Ex2_5.png)
 
@@ -55,8 +52,8 @@ Open the drop-down box “Use Case” and select “Health Monitoring”
 ## Exercise 2.7 Change Root URL
 
 Replace the value in the field “Root URL” with:  
-**https://api.gateway.orchestration.prod-us20.hanacloud.ondemand.com**
-
+"**https://api.gateway.orchestration.prod-us20.hanacloud.ondemand.com**"  
+Be careful that no blanks are in front or behing the root URL.  
 <br>![](/exercises/ex2/images/Ex2_7a.png)
 
 ## Exercise 2.8 Select Authentication Method
