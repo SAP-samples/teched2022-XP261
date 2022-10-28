@@ -14,8 +14,8 @@ In this session, you will get a detailed overview of the capabilities of Health 
 
 The requirements to follow the exercises in this repository 
 
-- internet access
-- basic operations and SAP BTP knowledge
+- Very basic knowledge in BTP Cockpit
+- Please use the Chrome browser on your Teched laptop
 
 ## Exercises
 
