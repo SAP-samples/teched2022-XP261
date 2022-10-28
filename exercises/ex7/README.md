@@ -1,6 +1,8 @@
 # Exercise 7 - Analyze the Alert and trigger the automation from the Alert Details
 
-After some minutes, you will receive an alert from SAP Cloud ALM Notification that the database is unavailable. If you entered your email address you will receive an alert notification email. If you didn’t enter your email address, you could also find the alert directly in the Health Monitoring application.
+After some minutes, you will receive an alert from SAP Cloud ALM Notification that the database is unavailable.   
+Please note that it can take up to 5 minutes after the HANA Cloud completely stopped until the alert appears. The metrics for SAP HANA Cloud are currently only collected every 5 minutes.  
+If you entered your email address you will receive an alert notification email. If you didn’t enter your email address, you could also find the alert directly in the Health Monitoring application.  
 After receiving the alert, you can trigger the automation flow to restart your HANA Cloud instance.
 
 ## Exercise 7.1 Look up email notification
@@ -50,7 +52,7 @@ You see that the alert is caused because the “Database Availability Check” h
 This means the database is offline and needs to be restarted.  
 <br>![](/exercises/ex7/images/Ex7_8.png)
 
-## Exercise 7.7 Start an Operation Flow
+## Exercise 7.6 Start an Operation Flow
 
 Click on “Actions” → “Start Operation Flow” to trigger your operation flow to restart the SAP HANA Cloud instance.  
 <br>![](/exercises/ex7/images/Ex7_9.png)
@@ -61,53 +63,45 @@ Click the “Start” button in the line of the operation flow.
 Make sure to replace _**XXX**_ with your group number!  
 <br>![](/exercises/ex7/images/Ex7_10.png)
 
-## Exercise 7.9 Update status
+## Exercise 7.7 Wait for Operation Flow to finish
 
 You can see the status of the operations flow under the tab “Operation Automation Logs”.  
 You can use the “Refresh Alert Details” button to update the status.  
+Please note that is can take several minutes for the operation flow to finish start HANA Cloud.  
 <br>![](/exercises/ex7/images/Ex7_11.png)
 
 Wait until your Operation Flow is successfully finished.  
 <br>![](/exercises/ex7/images/Ex7_12.png)
 
-## Exercise 7.11 Navigate back to the Health Monitoring Home Screen
+## Exercise 7.8 Navigate back to the Health Monitoring Home Screen
 
-Navigate back to the Health Monitoring Home screen.
-
+Navigate back to the Health Monitoring Home screen.  
 <br>![](/exercises/ex7/images/Ex7_13.png)
 
-## Exercise 7.12 Refresh application
-
 You can see that your HANA Cloud service is no longer in a critical state.  
-Please refresh the application if the HANA Cloud still shows a critical state.
-
+Please note that it can take up to 5 minutes after the SAP HANA Cloud restarted until Health Monitoring picks up the new status. The metrics for HANA Cloud are currently collected every 5 minutes.  
 <br>![](/exercises/ex7/images/Ex7_14.png)
 
+Please refresh the application if the HANA Cloud still shows a critical state.  
 <br>![](/exercises/ex7/images/Ex7_15.png)
 
-## Exercise 7.13 Alert Inbox
+## Exercise 7.9 Alert Inbox
 
-Navigate back to the Alert Inbox.
-
+Navigate back to the Alert Inbox.  
 <br>![](/exercises/ex7/images/Ex7_16.png)
 
-## Exercise 7.14 Go to Alert Details
+## Exercise 7.10 Go to Alert Details
 
 As you can see, the alert is rated green now.  
-Select the alert to navigate to the alert details.
-
+Select the alert to navigate to the alert details.  
 <br>![](/exercises/ex7/images/Ex7_17.png)
 
-## Exercise 7.15 Confirm Alert
+## Exercise 7.11 Confirm Alert
 
-Select “Actions” → “Confirm” to close the alert.
-
+Select “Actions” → “Confirm” to close the alert.  
 <br>![](/exercises/ex7/images/Ex7_18.png)
 
-## Exercise 7.16 Enter explanation
-
-Enter an explanation for closing the alert and click the “Save” button.
-
+Enter an explanation for closing the alert and click the “Save” button.  
 <br>![](/exercises/ex7/images/Ex7_19.png)
 
 ## Summary
