@@ -15,18 +15,18 @@ Navigate back to the SAP Cloud ALM Launchpad.
 Open the application “SAP Cloud ALM for Operations” → “Notification Management”  
 <br>![](/exercises/ex3/images/Ex3_2.png)
 
-## Exercise 3.3 Add new recipient
+## Exercise 3.3 Add a new recipient
 
 In the “Notification Management” start screen, click the “+” button to add a new recipient.  
 <br>![](/exercises/ex3/images/Ex3_3.png)
 
-## Exercise 3.4 Add email address
+## Exercise 3.4 Enter email address
 
 Enter your email address and click the “Save” button.  
 **Please note:** Your email address will be visible to the other attendees of this session  
 <br>![](/exercises/ex3/images/Ex3_4.png)
 
-## Exercise 3.5 Receive verification link
+## Exercise 3.5 Receive verification email
 
 The new email address is created as “Pending”. An email is sent to this address with a verification link.  
 <br>![](/exercises/ex3/images/Ex3_5.png)
