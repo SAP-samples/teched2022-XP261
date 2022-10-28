@@ -20,18 +20,14 @@ Open the application “SAP Cloud ALM for Operations” → “Notification Mana
 In the “Notification Management” start screen, click the “+” button to add a new recipient.  
 <br>![](/exercises/ex3/images/Ex3_3.png)
 
-## Exercise 3.4 Enter email address
-
 Enter your email address and click the “Save” button.  
 **Please note:** Your email address will be visible to the other attendees of this session  
 <br>![](/exercises/ex3/images/Ex3_4.png)
 
-## Exercise 3.5 Receive verification email
+## Exercise 3.4 Receive verification email
 
 The new email address is created as “Pending”. An email is sent to this address with a verification link.  
 <br>![](/exercises/ex3/images/Ex3_5.png)
-
-## Exercise 3.6 Verify email address
 
 Check your email inbox and verify your email address.  
 <br>![](/exercises/ex3/images/Ex3_6.png)  
@@ -39,7 +35,7 @@ Check your email inbox and verify your email address.
 The link will open in a browser window and a confirmation will be displayed.  
 <br>![](/exercises/ex3/images/Ex3_7.png)
 
-## Exercise 3.7 Check verification in Notification Management
+## Exercise 3.5 Check verification in Notification Management
 
 After clicking on the link, the email address in Notification Management will be “Verified” (you have to refresh the application to see the update)  
 <br>![](/exercises/ex3/images/Ex3_8.png)
