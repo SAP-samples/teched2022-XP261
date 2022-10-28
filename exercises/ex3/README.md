@@ -7,47 +7,39 @@ In this section, you will learn how to add an email for a user manually or add a
 
 ## Exercise 3.1 Go back to Launchpad
 
-Navigate back to the SAP Cloud ALM Launchpad.
-
+Navigate back to the SAP Cloud ALM Launchpad.  
 <br>![](/exercises/ex3/images/Ex3_1.png)
 
 ## Exercise 3.2 Open Notification Management
 
-Open the application “SAP Cloud ALM for Operations” → “Notification Management”
-
+Open the application “SAP Cloud ALM for Operations” → “Notification Management”  
 <br>![](/exercises/ex3/images/Ex3_2.png)
 
 ## Exercise 3.3 Add new recipient
 
-In the “Notification Management” start screen, click the “+” button to add a new recipient.
-
+In the “Notification Management” start screen, click the “+” button to add a new recipient.  
 <br>![](/exercises/ex3/images/Ex3_3.png)
 
 ## Exercise 3.4 Add email address
 
 Enter your email address and click the “Save” button.  
-**Please note:** Your email address will be visible to the other attendees of this session
-
+**Please note:** Your email address will be visible to the other attendees of this session  
 <br>![](/exercises/ex3/images/Ex3_4.png)
 
 ## Exercise 3.5 Receive verification link
 
-The new email address is created as “Pending”. An email is sent to this address with a verification link.
-
+The new email address is created as “Pending”. An email is sent to this address with a verification link.  
 <br>![](/exercises/ex3/images/Ex3_5.png)
 
 ## Exercise 3.6 Verify email address
 
-Check your email inbox and verify your email address.
-
-<br>![](/exercises/ex3/images/Ex3_6.png)
-
+Check your email inbox and verify your email address.  
+<br>![](/exercises/ex3/images/Ex3_6.png)  
 <br>![](/exercises/ex3/images/Ex3_7.png)
 
 ## Exercise 3.7 Check verification in Notification Management
 
-After clicking on the link, the email address in Notification Management will be “Verified” (you have to refresh the application to see the update)
-
+After clicking on the link, the email address in Notification Management will be “Verified” (you have to refresh the application to see the update)  
 <br>![](/exercises/ex3/images/Ex3_8.png)
 
 ## Summary
