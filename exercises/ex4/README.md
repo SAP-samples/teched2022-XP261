@@ -18,21 +18,15 @@ Open the application “SAP Cloud ALM for Operations” → “Operation Automat
 In the “Operation Automation” screen, click the button “Register Operation Flow” → “SAP Automation Pilot”  
 <br>![](/exercises/ex4/images/Ex4_3.png)
 
-## Exercise 4.4 Select Endpoint to Automation Pilot
-
 In this step you enter the endpoint name to Automation Pilot.  
 Enter the endpoint name “XP261_AUTOPILOT”.  
 Then click the “Input Help” for the field “ID”.  
 <br>![](/exercises/ex4/images/Ex4_4.png)
 
-## Exercise 4.5 Select StartHanaCloudInstance Automation
-
 In this step you select the automation we created in Automation Pilot before the exercise.  
 Enter **XP261-T000156R3:StartHanaCloudInstance:1** in the search field and press Enter.  
 Select the line “StartHanaCloudInstance”  
 <br>![](/exercises/ex4/images/Ex4_5.png)
-
-## Exercise 4.6 Select predefined Automation Pilot Input
 
 Now you have to select the predefined input parameters, to make sure that the correct HANA Cloud is restarted.  
 Enter **XP261-T000156R3:InputXp261HanaXXX** in the field “Input Reference”.  
@@ -40,24 +34,16 @@ Select the input for your group number **“InputXp261HanaXXX”** by clicking o
 Make sure to replace _**XXX**_ with your group number!  
 <br>![](/exercises/ex4/images/Ex4_6.png)
 
-## Exercise 4.7 Enter Description
-
 To be able to easier find the correct automation flow later, enter “Start xp261-XXX-hana” in the description field.  
 You can also enter your name or something else that will help you to find the correct operation flow later.  
 Make sure to replace _**XXX**_ with your group number!  
 <br>![](/exercises/ex4/images/Ex4_7.png)
 
-## Exercise 4.8 Select Health Monitoring use case
-
 Select the use case “Health Monitoring” to make sure the automation flow is available in the alerts for Health Monitoring.  
 <br>![](/exercises/ex4/images/Ex4_8.png)
 
-## Exercise 4.9 Save your Operation Flow selection
-
 Click the “Ok” button.  
 <br>![](/exercises/ex4/images/Ex4_9.png)
-
-## Exercise 4.10 Check Operation Flow
 
 Your operation flow will be added to the list.  
 <br>![](/exercises/ex4/images/Ex4_10.png)
