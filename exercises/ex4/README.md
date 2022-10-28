@@ -18,8 +18,8 @@ Open the application “SAP Cloud ALM for Operations” → “Operation Automat
 In the “Operation Automation” screen, click the button “Register Operation Flow” → “SAP Automation Pilot”  
 <br>![](/exercises/ex4/images/Ex4_3.png)
 
-In this step you enter the endpoint name to Automation Pilot.  
-Enter the endpoint name “XP261_AUTOPILOT”.  
+Select the endpoint for Automation Pilot.  It is usually preselected. If not you can start typing the name and select the correct endpoint.
+Choose the endpoint with the name “XP261_AUTOPILOT”.  
 Then click the “Input Help” for the field “ID”.  
 <br>![](/exercises/ex4/images/Ex4_4.png)
 
