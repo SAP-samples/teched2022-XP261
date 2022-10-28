@@ -36,7 +36,7 @@ The new email address is created as “Pending”. An email is sent to this addr
 Check your email inbox and verify your email address.  
 <br>![](/exercises/ex3/images/Ex3_6.png)  
 
-The link will open in a browser window and a confirmation will be displayed.
+The link will open in a browser window and a confirmation will be displayed.  
 <br>![](/exercises/ex3/images/Ex3_7.png)
 
 ## Exercise 3.7 Check verification in Notification Management
