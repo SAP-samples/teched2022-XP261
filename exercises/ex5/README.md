@@ -12,153 +12,113 @@ Navigate back to the SAP Cloud ALM Launchpad.
 Open the application “SAP Cloud ALM for Operations” → “Health Monitoring”  
 <br>![](/exercises/ex5/images/Ex5_2.png)
 
-## Exercise 5.3 Scope Selection
+## Exercise 5.3 Open Scope Selection
 
 In the Health Monitoring start screen, you will see all services that are configured.  
 Click the “Scope Selection” button to select only _your_ HANA Cloud.  
 <br>![](/exercises/ex5/images/Ex5_3.png)
 
-## Exercise 5.4 Select HANA Cloud
+## Exercise 5.4 Select your HANA Cloud
 
 Select the HANA Cloud with the name XP261-**XXX**-HANA and press the “Apply” button  
+Make sure to replace _**XXX**_ with your group number!  
 <br>![](/exercises/ex5/images/Ex5_4.png)
-
-## Exercise 5.5 Updated View
 
 Now you will see only your HANA Cloud.  
 <br>![](/exercises/ex5/images/Ex5_5.png)
 
-## Exercise 5.6 Navigate to details
+## Exercise 5.5 Navigate to HANA Cloud monitoring details
 
 Click on “SAP HANA Cloud” to navigate to the details for the service.  
 <br>![](/exercises/ex5/images/Ex5_6.png)
 
-## Exercise 5.7 Navigate to metric details
-
 Click on the row with your HANA Cloud to navigate to the metric details.  
 <br>![](/exercises/ex5/images/Ex5_7.png)
-
-## Exercise 5.8 View metrics
 
 In this screen, you can see all metrics that are collected for SAP HANA Cloud.  
 <br>![](/exercises/ex5/images/Ex5_8.png)
 
-## Exercise 5.9 Add your HANA Cloud as Favorite
+## Exercise 5.6 Add your HANA Cloud as Favorite
 
 Click the “Favorites” button to add this SAP HANA Cloud service to your favorites.  
 <br>![](/exercises/ex5/images/Ex5_9.png)
 
-## Exercise 5.10 Select metric
+## Exercise 5.10 Navigate to Metric Reporting
 
 Select the metric “Ping Time”  
 <br>![](/exercises/ex5/images/Ex5_10.png)
-
-## Exercise 5.11 Select History
 
 In the righthand screen area, you see all HANA service instances for which this metric was collected.  
 Click on the “History” button to open the metric reporting.  
 <br>![](/exercises/ex5/images/Ex5_11.png)
 
-## Exercise 5.12 Adjust timeframe
-
-You can use the controls in the upper left area to adjust the metric history’s timeframe and resolution.  
+The default resolution for the metric reporting is 15 minutes.  
+The metrics for SAP HANA Cloud are collected every 5 minutes. You can display all collected values by adjusting the reporting resolution.
+Use the controls in the upper left area to adjust the metric history’s timeframe and resolution.  
 <br>![](/exercises/ex5/images/Ex5_12.png)
-
-## Exercise 5.13 Close window 
 
 Close the window by clicking on the “Close” button.  
 <br>![](/exercises/ex5/images/Ex5_13.png)
 
-## Exercise 5.14 Return to Health Monitoring
+## Exercise 5.11 Return to Health Monitoring Home Screen
 
 Click the “Home” icon to return to the Health Monitoring start screen.   
 <br>![](/exercises/ex5/images/Ex5_14.png)
 
-## Exercise 5.15 See service in favorites
-
 You will now see your SAP HANA Cloud service in the “Favorites” area  
 <br>![](/exercises/ex5/images/Ex5_15.png)
 
-## Exercise 5.16 Set up alert
+## Exercise 5.12 Open Health Monitoring Configuration
 
-Click on the “Configuration” button to open the Configuration tray to set up an alert.
-
+Click on the “Configuration” button to open the Configuration tray to set up an alert.  
 <br>![](/exercises/ex5/images/Ex5_16.png)
 
-## Exercise 5.17 Select service
+## Exercise 5.13 Select HANA Cloud service
 
-Open the “Services” tray
-
+Open the “Services” tray  
 <br>![](/exercises/ex5/images/Ex5_17.png)
 
-## Exercise 5.18 Select your assigned service
-
-Click on the name of your SAP HANA Cloud
-
+Click on the name of your SAP HANA Cloud  
 <br>![](/exercises/ex5/images/Ex5_18.png)
 
-## Exercise 5.19 Select metric Database Availability Check
+## Exercise 5.14 Select metric Database Availability Check
 
 Here you see all metrics that are collected for this SAP HANA Cloud.  
-Click on the metric “Database Availability Check”
-
+Click on the metric “Database Availability Check”  
 <br>![](/exercises/ex5/images/Ex5_19.png)
 
-## Exercise 5.20 Save Thresholds
-
-Leave the status mapping as suggested and click the “Save” button to activate the threshold.
-
+Leave the status mapping as suggested and click the “Save” button to activate the threshold.  
 <br>![](/exercises/ex5/images/Ex5_20.png)
 
-## Exercise 5.21 Go to Events
-
 The threshold is now activated.  
-Click on the tab “Events” to create an alert.
-
+Click on the tab “Events” to create an alert.  
 <br>![](/exercises/ex5/images/Ex5_21.png)
 
-## Exercise 5.22 Set up availability alert
+## Exercise 5.15 Set up Alert
 
 In this screen you see all events that are available for the SAP HANA Cloud service.  
-Click on “Database Accessibility” to set up an availability alert.
-
+Click on “Database Accessibility” to set up an availability alert.  
 <br>![](/exercises/ex5/images/Ex5_22.png)
 
-## Exercise 5.23 Turn on alert and notification
-
-Switch the slider button for “Create Alert” and “Send Email” to ON.
-
+Switch the slider button for “Create Alert” and “Send Email” to ON.  
 <br>![](/exercises/ex5/images/Ex5_23.png)
 
-## Exercise 5.24 Add recipient
-
-Click the “+” button to add your email recipient.
-
+Click the “+” button to add your email recipient.  
 <br>![](/exercises/ex5/images/Ex5_24.png)
 
-## Exercise 5.25 Add email address
-
-Select _your_ email address from the list and click the “OK” button.
-
+Select _your_ email address from the list and click the “OK” button.  
 <br>![](/exercises/ex5/images/Ex5_25.png)
 
-## Exercise 5.26  Save Alert Setup
-
-Click the “Save” button to save your setup.
-
+Click the “Save” button to save your setup.  
 <br>![](/exercises/ex5/images/Ex5_26.png)
 
-## Exercise 5.27 Close configuration
-
 You have now set up an alert with an email recipient.  
-Click the “Close” button to close the configuration.
-
+Click the “Close” button to close the configuration.  
 <br>![](/exercises/ex5/images/Ex5_27.png)
 
-## Exercise 5.28 Close Configuration panel
+## Exercise 5.16 Close Health Monitoring Configuration
 
-Click the configuration icon again to close the configuration panel.
-
+Click the configuration icon again to close the configuration panel.  
 <br>![](/exercises/ex5/images/Ex5_28.png)
 
 ## Summary
