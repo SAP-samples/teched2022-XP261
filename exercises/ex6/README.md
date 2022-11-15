@@ -7,7 +7,7 @@ To stop SAP HANA Cloud, you have to access the BTP Cockpit again. From there, yo
 Your trainer will provide:  
 - BTP Cockpit URL: https://cockpit.us10.hana.ondemand.com/cockpit/?idp=tdcteched1.accounts.ondemand.com#/globalaccount/fb7dfea1-5d8c-431d-bd16-1ebbe842f62f
 - User: xp261-XXX@tdcteched.com (Please replace _**XXX**_ with your group number) 
-- Password: coming soon
+- Password: S4PT3ch3d-22!
 
 Please connect via browser to the provided URL and use your credentials to log in.  
 <br>![](/exercises/ex6/images/Ex6_1.png)
