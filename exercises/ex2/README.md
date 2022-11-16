@@ -9,7 +9,7 @@ Endpoints are created in the Landscape Management application.
 Your trainer will provide:  
 - SAP Cloud ALM URL: https://teched22-cloudalm-002.eu10.alm.cloud.sap/launchpad#Shell-home
 - User: xp261-XXX@tdcteched.com (Please replace _**XXX**_ with your group number)
-- Password: Coming soon
+- Password: S4PT3ch3d-22!
 
 Please connect via browser to the provided URL. Select the **httpstdcteched1.accounts.ondemand.co** Identity Provider.
 Use your credentials to log in.  
