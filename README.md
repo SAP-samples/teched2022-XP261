@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-XP261)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-XP261)
+
 # XP261 - Operating Your SAP BTP Platform Environment with SAP Cloud ALM
 
 ## Description
